@@ -781,7 +781,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/computertruhe\/main.json#start_schenklradio"
+                         "value":"https:\/\/play.schenklflut.de\/_\/global\/divoc.computertruhe.de\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
